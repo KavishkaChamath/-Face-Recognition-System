@@ -1,0 +1,38 @@
+{
+    "795929": {
+        "name": "Ruvinya ",
+        "face_path": "registered_faces\\005_51206794-459e-4f59-a973-e94cdd472ef9.jpg",
+        "embedding_path": "face_embeddings\\005_848b8f70-e252-4d3f-ab91-71ede9d78d16.npy",
+        "registration_time": "2025-04-06 11:58:37"
+    },
+    "0007": {
+        "name": "Amasha",
+        "face_path": "registered_faces\\004_eb825b88-f1dc-4fb9-92a2-588282a874d4.jpg",
+        "embedding_path": "face_embeddings\\004_83e7b197-77fe-47af-b499-467e163973aa.npy",
+        "registration_time": "2025-04-06 12:45:28"
+    },
+    "0022": {
+        "name": "Chamath",
+        "face_path": "registered_faces\\0022_70293072-1c7a-4314-95ad-9223aa10ccff.jpg",
+        "embedding_path": "face_embeddings\\0022_3f4617e1-8706-4e6b-8c9f-62eda55e828d.npy",
+        "registration_time": "2025-04-06 12:54:29"
+    },
+    "0010": {
+        "name": "Janith Jayashan",
+        "face_path": "registered_faces\\0010_d99060fb-5cf2-409f-bc78-3f3f40c7df43.jpg",
+        "embedding_path": "face_embeddings\\0010_bc03f8b8-385a-434f-89eb-227a0c725e9a.npy",
+        "registration_time": "2025-04-07 15:32:03"
+    },
+    "D-BSE-0007": {
+        "name": "Nethmi Amasha ",
+        "face_path": "registered_faces\\D-BSE-0007_5d0baee4-784c-4feb-97b1-6512ef1e1ee5.jpg",
+        "embedding_path": "face_embeddings\\D-BSE-0007_0c09fd71-c5e5-40f0-8d41-526699085921.npy",
+        "registration_time": "2025-04-07 15:26:51"
+    },
+    "0017": {
+        "name": "Waruna Jayathika",
+        "face_path": "registered_faces\\0017_8fff2668-3ac0-4c91-916e-087e3b3e9555.jpg",
+        "embedding_path": "face_embeddings\\0017_12415c7d-eb5a-400e-973b-3693b994c0db.npy",
+        "registration_time": "2025-04-07 15:49:11"
+    }
+}
